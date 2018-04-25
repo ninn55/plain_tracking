@@ -5,3 +5,6 @@
        width="80" height="15" alt="WTFPL" /></a>
 
 A "shitty" matlab program i write to track a simple airplain in cloud.
+
+https://www.youtube.com/watch?v=TTK1KIsNcz8 original
+https://www.youtube.com/watch?v=8YALXfukCD0 result
